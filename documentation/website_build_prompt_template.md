@@ -1,5 +1,7 @@
 # Website Build Prompt Template & Process Guide
 
+DEMONSTRATION OF CHANGE LOG IN GITHUB
+
 This template and guide will help anyone use AI to build a simple, branded, multi-page website for their business, just like we did for Willie's Lavanderia.
 
 ---
